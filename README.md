@@ -1,5 +1,5 @@
 # Neural_Chemical_Name_Standardization
-Repository for paper "Chemical Names Standardization using Neural Sequence to Sequence Model"
+Repository for paper "Chemical Names Standardization using Neural Sequence to Sequence Model". You can run through the model by following the instructions below.
 
 ## Requirements
 A BPE tokenizer from https://github.com/rsennrich/subword-nmt<br>
